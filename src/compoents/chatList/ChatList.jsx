@@ -1,4 +1,4 @@
-import './chatList.css'
+import './chatlist.css'
 import { Link } from 'react-router-dom'
 import { useQuery } from '@tanstack/react-query'
 
